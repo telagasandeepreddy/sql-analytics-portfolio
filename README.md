@@ -55,3 +55,6 @@ Each level has exercises in `exercises/` with solutions in `exercises/solutions/
 
 ---
 *Built as a data analytics learning portfolio. Star ⭐ if it helped you!*
+
+---
+Connect with me >> https://www.linkedin.com/in/sandyreddybi/
